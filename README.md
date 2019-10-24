@@ -1,1 +1,2 @@
-# test04
+## Katas
+##### training to solve ruby puzzles
